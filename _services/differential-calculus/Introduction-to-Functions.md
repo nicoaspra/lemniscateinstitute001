@@ -10,6 +10,10 @@ layout: content
 A function is a special relationship between an input and an output, where the value of the output depends on the value of the input, given that **for every input there can only be one output**. Imagine the function as a juicer, if you use it on an apple you cannot expect a different type of juice other than an apple juice (Figure 1).
 
 
+
+hellooooooo
+
+
 {% include images.html 
     url= "/images/content/DC-01-01.png" 
     caption= "Figure 1: Relating a function as a fruit juicer"
